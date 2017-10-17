@@ -8,6 +8,14 @@
     <string name="radioButton">BoutonRadio</string>
     <string name="checkBox">Boite Verification</string>
     <string name="switchText">Qu\'est-ce que ceci fait?</string>
+    <string name="dialog_message">Veut-tu finir cette activité?</string>
+    <string name="dialog_title">Attention</string>
+    <string name="ok">D\'accord</string>
+    <string name="cancel">Canceller</string>
+    <string name="chat_button">Commence la conversation</string>
+    <string name="send_text">Envoyer</string>
+
+
 
 
 
