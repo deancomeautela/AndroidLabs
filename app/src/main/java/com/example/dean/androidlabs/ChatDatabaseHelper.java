@@ -19,7 +19,7 @@ public class ChatDatabaseHelper extends SQLiteOpenHelper {
         return TABLE_NAME;
     }
 
-    static int VERSION_NUM = 5;
+    static int VERSION_NUM = 7;
 
     public static String getKeyId() {
         return KEY_ID;
